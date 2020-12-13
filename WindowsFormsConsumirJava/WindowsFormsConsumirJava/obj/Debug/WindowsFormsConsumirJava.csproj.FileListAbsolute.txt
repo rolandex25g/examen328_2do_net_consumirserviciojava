@@ -1,0 +1,10 @@
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\bin\Debug\WindowsFormsConsumirJava.exe.config
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\bin\Debug\WindowsFormsConsumirJava.exe
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\bin\Debug\WindowsFormsConsumirJava.pdb
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.csprojAssemblyReference.cache
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.Form1.resources
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.Properties.Resources.resources
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.csproj.GenerateResource.cache
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.csproj.CoreCompileInputs.cache
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.exe
+D:\inf328\examen2\WindowsFormsConsumirJava\WindowsFormsConsumirJava\obj\Debug\WindowsFormsConsumirJava.pdb
